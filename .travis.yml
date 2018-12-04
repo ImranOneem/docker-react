@@ -11,7 +11,7 @@ script:
 # deploy:
 #   provider: heroku
 #   api_key:
-#     secure: "YOUR  ENCRYPTED API KEY"
+#     secure: "YOUR ENCRYPTED API KEY"
 #   on:
 #     branch: master
 
